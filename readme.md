@@ -5,5 +5,5 @@
 - task 1
   - details
 - action 2
-- [ ] todo 3
+- [x] todo 3
 - [ ] run sanity set of tests on Firefox browser **work achievement**
