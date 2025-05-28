@@ -1,24 +1,6 @@
 # MAYO 2025
 
 ## TAREAS
-### Lunes 19-05-2025
-- [x] Curso Github Copilot: 1. Overview [00:00-23:30]
-### Martes 20-05-2025
-- [x] Curso Github Copilot: 2. Getting started [23:30-36:00]
-
-### Miércoles 21-05-2025
-- [x] Curso Github Copilot: 3. Prompt Engineering [36:00-1:13:05]
-
-### Jueves 22-05-2025
-- [x] Curso Github Copilot: 4. Best Practices [1:13:05-1:59:00]
-- [x] Curso Github Copilot: 5. Tips & Tricks [1:59:00-2:19:00]
-
-### Viernes 23-05-2025
-- [x] Curso Github Copilot: 6. Governance & Control 7. Future Roadmap 8. FAQ [2:19:00-2:36:00]
-- [x] Kafka Tutorial for Beginners (18')
-
----
-
 ### Lunes 26-05-2025
 - [ ] [Debugging PW tests in VS Code](https://www.youtube.com/watch?v=tJF7UhA59Gc)
 
@@ -40,6 +22,7 @@ https://playwrightsolutions.com/is-it-possible-to-do-api-testing-with-playwright
 
 - [ ] Checkly - Playwright in Production (1h 00') 1/4
 
+---
 
 ## INVESTIGATE TOPICS
 >Curso Github Copilot MB => 2h 36'
