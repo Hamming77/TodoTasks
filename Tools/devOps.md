@@ -2,7 +2,7 @@
 
 - [x] [CI/CD Explained](https://www.youtube.com/watch?v=AknbizcLq4w)
 
-- [ ] [Kafka Tutorial for Beginners](https://www.youtube.com/watch?v=QkdkLdMBuL0)
+- [x] [Kafka Tutorial for Beginners](https://www.youtube.com/watch?v=QkdkLdMBuL0)
 
 - [ ] [What is DevOps - 35'32''](https://www.youtube.com/watch?v=0yWAtQ6wYNM)
 
