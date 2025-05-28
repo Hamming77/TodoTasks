@@ -47,29 +47,29 @@ https://playwrightsolutions.com/is-it-possible-to-do-api-testing-with-playwright
 >Nuevo curso PW Linkedin => 1h 08'
 
 ### - PW & Github Copilot (IA)
-[x] [Write Playwright Tests in Seconds with ChatGPT!?](https://www.youtube.com/watch?v=5AUbODEz6w0)
+- [x] [Write Playwright Tests in Seconds with ChatGPT!?](https://www.youtube.com/watch?v=5AUbODEz6w0)
 
-[x] [How good is GitHub Copilot at generating Playwright code?](https://www.youtube.com/watch?v=A41yo4ARbX0)
+- [x] [How good is GitHub Copilot at generating Playwright code?](https://www.youtube.com/watch?v=A41yo4ARbX0)
 
-[ ] [Test like a pro with Playwright and GitHub Copilot](https://www.youtube.com/watch?v=rjbaIVOGfyo)
+- [ ] [Test like a pro with Playwright and GitHub Copilot](https://www.youtube.com/watch?v=rjbaIVOGfyo)
 
-[ ] [Playwright Live: Exploring the Latest Features! - Feb 25](https://www.youtube.com/watch?v=NcSk9fOGEac)
+- [ ] [Playwright Live: Exploring the Latest Features! - Feb 25](https://www.youtube.com/watch?v=NcSk9fOGEac)
 
-[ ] [Starting with Playwright AI Automation MCP with Copilot](https://www.youtube.com/watch?v=lCTdBIF6oO8)
+- [ ] [Starting with Playwright AI Automation MCP with Copilot](https://www.youtube.com/watch?v=lCTdBIF6oO8)
 
 ### - PW & MCP
 
-[x] [Playwright MCP: How AI Agents Can Control Your Browser](https://www.youtube.com/watch?v=2716IUeCIQo)
+- [x] [Playwright MCP: How AI Agents Can Control Your Browser](https://www.youtube.com/watch?v=2716IUeCIQo)
 
-[x] [How to Generate Playwright Tests using MCP + Copilot](https://www.youtube.com/watch?v=AaCj939XIQ4)
+- [x] [How to Generate Playwright Tests using MCP + Copilot](https://www.youtube.com/watch?v=AaCj939XIQ4)
 
-[ ] [Install Playwright MCP Server in VS Code](https://www.youtube.com/watch?v=cifdyJkKs04)
+- [ ] [Install Playwright MCP Server in VS Code](https://www.youtube.com/watch?v=cifdyJkKs04)
 
-[ ] [AI Goes Shopping for You with Playwright's MCP Server!](https://www.youtube.com/watch?v=r3PzUlbfMXA)
+- [ ] [AI Goes Shopping for You with Playwright's MCP Server!](https://www.youtube.com/watch?v=r3PzUlbfMXA)
 
-[ ] [Playwright Live - Community updates and Playwright MCP Server](https://www.youtube.com/watch?v=P-JVscQW5AE)
+- [ ] [Playwright Live - Community updates and Playwright MCP Server](https://www.youtube.com/watch?v=P-JVscQW5AE)
 
-[ ] [Playwright Live - Testing with AI using Playwright MCP + Live Demo](https://www.youtube.com/watch?v=CNzg1aPwrKI)
+- [ ] [Playwright Live - Testing with AI using Playwright MCP + Live Demo](https://www.youtube.com/watch?v=CNzg1aPwrKI)
 
 ### - PW & Datadog integration
 
