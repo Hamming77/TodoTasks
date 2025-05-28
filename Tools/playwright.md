@@ -38,89 +38,89 @@
 ## TOPICS
 
 ### Linting
-[ ] [Add Type Checking and Linting to your Playwright Project](https://www.youtube.com/watch?v=3gT7LuzqOAk)
+- [ ] [Add Type Checking and Linting to your Playwright Project](https://www.youtube.com/watch?v=3gT7LuzqOAk)
 
-[ ] [use this lint rule to have less flakey Playwright tests](https://www.youtube.com/watch?v=qL2XU2mdwcY)
+- [ ] [use this lint rule to have less flakey Playwright tests](https://www.youtube.com/watch?v=qL2XU2mdwcY)
 
 ### Tests execution
-[ ] [How to run your Playwright end-to-end tests in SloMo](https://www.youtube.com/watch?v=T7O4D78E2fY)
+- [ ] [How to run your Playwright end-to-end tests in SloMo](https://www.youtube.com/watch?v=T7O4D78E2fY)
 
-[ ] [Apply Playwright test steps with TypeScript decorators](https://www.youtube.com/watch?v=of1v9cycTdQ)
+- [ ] [Apply Playwright test steps with TypeScript decorators](https://www.youtube.com/watch?v=of1v9cycTdQ)
 
-[ ] [Five Playwright CLI features you should know](https://www.youtube.com/watch?v=kw_8LXRSd10)
+- [ ] [Five Playwright CLI features you should know](https://www.youtube.com/watch?v=kw_8LXRSd10)
 
 ### Debugging
-[ ] [How to debug Playwright end-to-end tests](https://www.youtube.com/watch?v=rhzrFiKfWwY)
+- [ ] [How to debug Playwright end-to-end tests](https://www.youtube.com/watch?v=rhzrFiKfWwY)
 
-[ ] [Debugging PW tests in VS Code](https://www.youtube.com/watch?v=tJF7UhA59Gc)
+- [ ] [Debugging PW tests in VS Code](https://www.youtube.com/watch?v=tJF7UhA59Gc)
 
 ### Locators
-[ ] [How to narrow and chain your Playwright locators with and()](https://www.youtube.com/watch?v=fNKDyvFtAfs)
+- [ ] [How to narrow and chain your Playwright locators with and()](https://www.youtube.com/watch?v=fNKDyvFtAfs)
 
-[ ] [Make your end-to-end tests more stable with Playwright's user-first selectors](https://www.youtube.com/watch?v=9RJMNU4eNEc)
+- [ ] [Make your end-to-end tests more stable with Playwright's user-first selectors](https://www.youtube.com/watch?v=9RJMNU4eNEc)
 
 ### Assertions
-[ ] [How to create custom assertions with toPass()](https://www.youtube.com/watch?v=Fs-nM747TY4)
+- [ ] [How to create custom assertions with toPass()](https://www.youtube.com/watch?v=Fs-nM747TY4)
 
 ### Authentication
-[ ] [How to Speed up your Playwright Tests with shared "storageState"](https://www.youtube.com/watch?v=nSHPCLUwwVk)
+- [ ] [How to Speed up your Playwright Tests with shared "storageState"](https://www.youtube.com/watch?v=nSHPCLUwwVk)
 
 ### Fixtures
-[ ] [Reuse Playwright Code across Files and Tests with Fixtures](https://www.youtube.com/watch?v=2O7dyz6XO2s)
+- [ ] [Reuse Playwright Code across Files and Tests with Fixtures](https://www.youtube.com/watch?v=2O7dyz6XO2s)
 
 ### POM
-[ ] [How to combine POMs (Page Object Models) with Playwright Fixtures](https://www.youtube.com/watch?v=k488kAtT-Pw)
+- [ ] [How to combine POMs (Page Object Models) with Playwright Fixtures](https://www.youtube.com/watch?v=k488kAtT-Pw)
 
-[ ] [How to parameterize and configure your custom Playwright fixtures](https://www.youtube.com/watch?v=rRmfYu8hlbw)
+- [ ] [How to parameterize and configure your custom Playwright fixtures](https://www.youtube.com/watch?v=rRmfYu8hlbw)
 
 ### Non-deterministic user flows
-[ ] [How to test non-deterministic user flows with Playwright](https://www.youtube.com/watch?v=CFSa4Ka_4T8)
+- [ ] [How to test non-deterministic user flows with Playwright](https://www.youtube.com/watch?v=CFSa4Ka_4T8)
 
-[ ] [How to combine Playwright locators to test non-deterministic application flows](https://www.youtube.com/watch?v=VTHJspr15Yc)
+- [ ] [How to combine Playwright locators to test non-deterministic application flows](https://www.youtube.com/watch?v=VTHJspr15Yc)
 
-[ ] [Detect & close unpredictable overlays with page.addLocatorHandler()](https://www.youtube.com/watch?v=E8JLQoCDUcU)
+- [ ] [Detect & close unpredictable overlays with page.addLocatorHandler()](https://www.youtube.com/watch?v=E8JLQoCDUcU)
 
 ### Flakiness
-[ ] [Avoid flaky end-to-end tests due to poorly hydrated Frontends with Playwright's toPass()](https://www.youtube.com/watch?v=8g7FvoRToGo)
+- [ ] [Avoid flaky end-to-end tests due to poorly hydrated Frontends with Playwright's toPass()](https://www.youtube.com/watch?v=8g7FvoRToGo)
 
-[ ] [Our #1 Solution to Playwright Flakiness - WaitForResponse, WaitForRequest, Promises](https://www.youtube.com/watch?v=pL0PUFdCg6w)
+- [ ] [Our #1 Solution to Playwright Flakiness - WaitForResponse, WaitForRequest, Promises](https://www.youtube.com/watch?v=pL0PUFdCg6w)
 
 ### Reporting
-[ ] [A guide to human readable reports in Playwright with test.step, expect, & annotations](https://www.youtube.com/watch?v=o7hl_PcxuVw)
+- [ ] [A guide to human readable reports in Playwright with test.step, expect, & annotations](https://www.youtube.com/watch?v=o7hl_PcxuVw)
 
-[ ] [Effortlessly Publish Playwright Reports with GitHub Pages](https://www.youtube.com/watch?v=F_nUVHBhrow)
+- [ ] [Effortlessly Publish Playwright Reports with GitHub Pages](https://www.youtube.com/watch?v=F_nUVHBhrow)
 
 ### API Testing
-[ ] [How to test and monitor your APIs with Playwright](https://www.youtube.com/watch?v=vuabXC46KkM)
+- [ ] [How to test and monitor your APIs with Playwright](https://www.youtube.com/watch?v=vuabXC46KkM)
 
-[ ] [How to wait for a specific API response in your Playwright end-to-end tests](https://www.youtube.com/watch?v=5CER0dKweyw)
+- [ ] [How to wait for a specific API response in your Playwright end-to-end tests](https://www.youtube.com/watch?v=5CER0dKweyw)
 
-[ ] [Creating Reusable API Methods with Playwright Mimicking the Page Object Model](https://www.youtube.com/watch?v=Q2RlV08afNI)
+- [ ] [Creating Reusable API Methods with Playwright Mimicking the Page Object Model](https://www.youtube.com/watch?v=Q2RlV08afNI)
 
 ### - PW & Github Copilot (IA)
-[x] [Write Playwright Tests in Seconds with ChatGPT!?](https://www.youtube.com/watch?v=5AUbODEz6w0)
+- [x] [Write Playwright Tests in Seconds with ChatGPT!?](https://www.youtube.com/watch?v=5AUbODEz6w0)
 
-[x] [How good is GitHub Copilot at generating Playwright code?](https://www.youtube.com/watch?v=A41yo4ARbX0)
+- [x] [How good is GitHub Copilot at generating Playwright code?](https://www.youtube.com/watch?v=A41yo4ARbX0)
 
-[ ] [Test like a pro with Playwright and GitHub Copilot](https://www.youtube.com/watch?v=rjbaIVOGfyo)
+- [ ] [Test like a pro with Playwright and GitHub Copilot](https://www.youtube.com/watch?v=rjbaIVOGfyo)
 
-[ ] [Playwright Live: Exploring the Latest Features! - Feb 25](https://www.youtube.com/watch?v=NcSk9fOGEac)
+- [ ] [Playwright Live: Exploring the Latest Features! - Feb 25](https://www.youtube.com/watch?v=NcSk9fOGEac)
 
-[ ] [Starting with Playwright AI Automation MCP with Copilot](https://www.youtube.com/watch?v=lCTdBIF6oO8)
+- [ ] [Starting with Playwright AI Automation MCP with Copilot](https://www.youtube.com/watch?v=lCTdBIF6oO8)
 
 ### - PW & MCP
 
-[x] [Playwright MCP: How AI Agents Can Control Your Browser](https://www.youtube.com/watch?v=2716IUeCIQo)
+- [x] [Playwright MCP: How AI Agents Can Control Your Browser](https://www.youtube.com/watch?v=2716IUeCIQo)
 
-[x] [How to Generate Playwright Tests using MCP + Copilot](https://www.youtube.com/watch?v=AaCj939XIQ4)
+- [x] [How to Generate Playwright Tests using MCP + Copilot](https://www.youtube.com/watch?v=AaCj939XIQ4)
 
-[ ] [Install Playwright MCP Server in VS Code](https://www.youtube.com/watch?v=cifdyJkKs04)
+- [ ] [Install Playwright MCP Server in VS Code](https://www.youtube.com/watch?v=cifdyJkKs04)
 
-[ ] [AI Goes Shopping for You with Playwright's MCP Server!](https://www.youtube.com/watch?v=r3PzUlbfMXA)
+- [ ] [AI Goes Shopping for You with Playwright's MCP Server!](https://www.youtube.com/watch?v=r3PzUlbfMXA)
 
-[ ] [Playwright Live - Community updates and Playwright MCP Server](https://www.youtube.com/watch?v=P-JVscQW5AE)
+- [ ] [Playwright Live - Community updates and Playwright MCP Server](https://www.youtube.com/watch?v=P-JVscQW5AE)
 
-[ ] [Playwright Live - Testing with AI using Playwright MCP + Live Demo](https://www.youtube.com/watch?v=CNzg1aPwrKI)
+- [ ] [Playwright Live - Testing with AI using Playwright MCP + Live Demo](https://www.youtube.com/watch?v=CNzg1aPwrKI)
 
 ### - PW & Datadog integration
 
